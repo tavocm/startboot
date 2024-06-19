@@ -1,1 +1,0 @@
-archivoo de informacion general 
