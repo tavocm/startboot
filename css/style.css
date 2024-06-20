@@ -1,9 +1,10 @@
 /* seudoselector, permite definir variables */
 /* paleta de colores generales -  COLORES SEGUN MANUAL DE MARCA*/
-/* se cambia el color primario a azul
+/* se cambia el color primario a azul */
+/* se cambia color primario a rojo*/
 :root{
 	--blanco: #ffffff;
-	--primario: #313dad;
+	--primario: #da1d5c;
 	--oscuro: #212121;
 	--secundario: #0097A7;
 	--gris: #757575;
