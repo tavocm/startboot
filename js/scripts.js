@@ -7,7 +7,7 @@ const datos = {
 	mensaje: ''
 }
 
-//-- eventos de los imputs
+//-- eventos de los inputs
 
 //-- metodo querySelector, devuelve el primer elemento del document que coincida con el selector 
 let nombre = document.querySelector('#nombre');
